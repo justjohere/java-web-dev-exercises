@@ -11,6 +11,7 @@ public class HashMapGradebook {
         HashMap<String, Double> students = new HashMap<>();
         Scanner input = new Scanner(System.in);
         String newStudent;
+        String newStudent2;
 
         System.out.println("Enter your students (or ENTER to finish):");
 
